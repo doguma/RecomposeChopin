@@ -9,14 +9,18 @@
 
 
 ![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide1.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide2.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide3.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide4.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide5.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide6.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide7.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide8.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide9.png?raw=true)
-![Alt text](https://github.com/doguma/RecomposeChopin/tree/main/cnn_screenshots/slide10.png?raw=true)
+
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide2.png?raw=true)
+
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide3.png?raw=true)
+
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide4.png?raw=true)
+
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide5.png?raw=true)
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide6.png?raw=true)
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide7.png?raw=true)
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide8.png?raw=true)
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide9.png?raw=true)
+![Alt text](https://github.com/doguma/RecomposeChopin/blob/main/cnn_screenshots/slide10.png?raw=true)
 
 
