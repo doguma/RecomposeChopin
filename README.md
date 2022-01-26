@@ -1,4 +1,4 @@
-# Recompose Classics
+# Recompose Chopin
 
 ### Learning Chopin's style of composition through various DNN models
 
